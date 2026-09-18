@@ -1,16 +1,16 @@
-# SMG SILKS Website v3
+# SMG SILKS — Landing Page
 
-Premium QR landing page using the supplied Kancheepuram heritage artwork.
+Free GitHub Pages landing page for SMG SILKS, Kancheepuram.
 
-Top highlighted actions:
-- Save our number
-- Get directions
+## Files
+- `index.html` — page structure and content
+- `style.css` — responsive desktop/mobile design
+- `script.js` — save-contact and placeholder-link behavior
+- `smg-heritage-hero.png` — supplied heritage artwork
+- `smg-logo-original.png` — supplied SMG SILKS logo
 
-Configured:
-- WhatsApp +91 74189 89145
-- Instagram @SMGSILSKANCHI
-- Address #6A, Vilakkadi Kovil Street, Kancheepuram, Tamil Nadu
+## Publishing
+Repository is intended for GitHub Pages using the `main` branch and `/ (root)`.
 
-Later add the Buyers Group and Facebook URLs in script.js.
-
-Publish through GitHub Pages. Generate the printed QR only after confirming the live URL.
+## Pending links
+Buyers Group and Facebook are intentionally placeholders until their real links are available.
